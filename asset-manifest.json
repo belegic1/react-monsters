@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/belegic1/react-monsters/static/css/main.c6efe0f4.css",
+    "main.js": "/belegic1/react-monsters/static/js/main.efe27325.js",
+    "static/js/787.71774a75.chunk.js": "/belegic1/react-monsters/static/js/787.71774a75.chunk.js",
+    "index.html": "/belegic1/react-monsters/index.html",
+    "main.c6efe0f4.css.map": "/belegic1/react-monsters/static/css/main.c6efe0f4.css.map",
+    "main.efe27325.js.map": "/belegic1/react-monsters/static/js/main.efe27325.js.map",
+    "787.71774a75.chunk.js.map": "/belegic1/react-monsters/static/js/787.71774a75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6efe0f4.css",
+    "static/js/main.efe27325.js"
+  ]
+}
